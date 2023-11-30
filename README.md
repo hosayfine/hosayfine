@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+# My name is Josephine (she/her)
+
+I'm currently working as a **Lifecycle Marketing Specialist** in the *San Francisco Bay Area* for a medium-sized fintech company.
+
+# Fun Facts
+* I have never used GitHub before
+* I have an identical twin sister
+* I am bilingual
+* I have traveled to 16 countries
 
 <!--
 **hosayfine/hosayfine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
